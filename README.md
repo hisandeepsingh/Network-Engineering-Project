@@ -1,5 +1,5 @@
-# Evaluation of TCP westwood,westwoodplus,LEDBAT with prposed TCP in WiFi environments in ns-3
-## Subject: Network Engineering	<br/>
+## Evaluation of TCP westwood,westwoodplus,LEDBAT with proposed TCP in WiFi environments in ns-3
+### Subject: Network Engineering	<br/>
 
 
 ### Overview		<br/>
