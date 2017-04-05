@@ -1,13 +1,15 @@
-# Evaluation of TCP Deoghar in WiFi environments in ns-3
-## Course Code: CS821	<br/>
-## Assignment: #FP5	<br/>
+# Evaluation of TCP westwood,westwoodplus,LEDBAT with prposed TCP in WiFi environments in ns-3
+## Subject: Network Engineering	<br/>
+
 
 ### Overview		<br/>
-TCP Deoghar derives inferences from TCP LEDBAT [1], inorder to prevent backoff if there is a possibility that the drop was due to channel error
-and has been already implemented in ns-3 [2]. This repository contains an evaluation of TCP Deoghar in a wide variety of WiFi scenarios, including Gigabit WiFi and its performance with different rate adaptation algorithms.
+Evaluating TCP westwood [1],westwoodplus[2] and TCP LEDBAT[3] in wifi environment.I am also proposing new TCP 
+ derives inferences from TCP LEDBAT, inorder to prevent backoff if there is a possibility that the drop was due to channel error
+and has been already implemented in ns-3 [4]. 
 
 ### References         <br/>
 
-[1] S. Shalunov, G. Hazel, J. Iyengar, and M. Kuehlewind, “Low Extra Delay Background Transport (LEDBAT),” RFC 6817, 2012.
-
-[2] http://www.nsnam.org/
+[1] http://dl.acm.org/citation.cfm?id=582460
+[2] http://www.ittc.ku.edu/resilinets/papers/Gangadhar-Nguyen-Umapathi-Sterbenz-2013.pdf
+[3] S. Shalunov, G. Hazel, J. Iyengar, and M. Kuehlewind, “Low Extra Delay Background Transport (LEDBAT),” RFC 6817, 2012.
+[4] http://www.nsnam.org/
